@@ -1,0 +1,22 @@
+{
+  "name": "DCDemoBase",
+  "version": "0.1.0",
+  "summary": "A short description of DCDemoBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mengyan520/DCDemoBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mengyan520": "maming@secretlisa.com"
+  },
+  "source": {
+    "git": "https://github.com/mengyan520/DCDemoBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DCDemoBase/Classes/**/*"
+}

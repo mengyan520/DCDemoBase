@@ -1,0 +1,27 @@
+PODS:
+  - DCDemoBase (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DCDemoBase (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DCDemoBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCDemoBase: 705bb58ae94b8fddb7adf1b4889a587fbd79c3cb
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 0be446a5018a96897abe77537970581d29ab0a1f
+
+COCOAPODS: 1.11.2
